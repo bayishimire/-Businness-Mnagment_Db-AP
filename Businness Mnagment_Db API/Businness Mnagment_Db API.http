@@ -1,0 +1,6 @@
+@Businness_Mnagment_Db_API_HostAddress = http://localhost:5127
+
+GET {{Businness_Mnagment_Db_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
